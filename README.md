@@ -1,2 +1,3 @@
 # Zomato-Price-Prediction
-Data cleaning,EDA and Model Building
+Predicting the price of Zomato Bangalore Resturant
+Data cleaning, EDA and Model Building
